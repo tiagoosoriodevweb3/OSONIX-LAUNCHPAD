@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Presale Contract",
+      "value": "0xbc0673C873F944b32f217C4832C3a081a52e1A53"
+    },
+    {
+      "id": 2,
+      "name": "Rate in USDC",
+      "value": "300000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "Xcoin Presale"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "XC is the native token that powers the thriving ecosystem of 0xFactory. XC plays a pivotal role in facilitating and enhancing the functionality of our platform, enabling users to fully engage with the innovative features and services we offer."
+    },
+    {
+      "id": 5,
+      "name": "Token Name",
+      "value": "Xcoin"
+    },
+    {
+      "id": 6,
+      "name": "Token Contract",
+      "value": "0xbc0673C873F944b32f217C4832C3a081a52e1A53"
+    },
+    {
+      "id": 7,
+      "name": "Token Symbol",
+      "value": "XC"
+    },
+    {
+      "id": 8,
+      "name": "Token Decimal",
+      "value": "18"
+    },
+    {
+      "id": 9,
+      "name": "Token Supply",
+      "value": "777777777"
+    },
+    {
+      "id": 10,
+      "name": "Tokens For Presale",
+      "value": "700000"
+    },
+    {
+      "id": 11,
+      "name": "Presale Start Time",
+      "value": "2024.07.07 15:00 (UTC)"
+    },
+    {
+      "id": 12,
+      "name": "Presale End Time",
+      "value": "2024.08.08 15:00 (UTC)"
+    },
+    {
+      "id": 13,
+      "name": "Affiliate Commission %",
+      "value": "7"
+    },
+    {
+      "id": 14,
+      "name": "Owner Wallet",
+      "value": "0xC4c153ae43f546d667C7A40Ed6F74Ac5d399C7DC"
+    }
+    
+  ]
+  
